@@ -1,0 +1,1 @@
+By default, all accounts are limited to 5 Elastic IP addresses per region.
